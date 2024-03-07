@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Araba Oyunu", "Araba Oyunu\Araba Oyunu.vdproj", "{F4994718-85D9-4CB1-BEDC-E132FD508266}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Araba Oyunu", "..\..\..\OneDrive\Masaüstü\Araba Oyunu\Araba Oyunu.vdproj", "{7123DA50-160D-46FB-B157-7184C4A8833A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4994718-85D9-4CB1-BEDC-E132FD508266}.Debug|Default.ActiveCfg = Debug
+		{F4994718-85D9-4CB1-BEDC-E132FD508266}.Debug|Default.Build.0 = Debug
+		{F4994718-85D9-4CB1-BEDC-E132FD508266}.Release|Default.ActiveCfg = Release
+		{F4994718-85D9-4CB1-BEDC-E132FD508266}.Release|Default.Build.0 = Release
+		{7123DA50-160D-46FB-B157-7184C4A8833A}.Debug|Default.ActiveCfg = Debug
+		{7123DA50-160D-46FB-B157-7184C4A8833A}.Release|Default.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30F2E7C1-695D-40FC-8726-E888EEEDE2F1}
+	EndGlobalSection
+EndGlobal
